@@ -1,0 +1,22 @@
+---
+layout: post
+author: jamesma560
+title: Chapter Two Variable Exercises
+---
+
+Excercise 2: Here is a program that prompts the user for their name and then welcomes them using their name.
+ 
+<iframe src="https://trinket.io/embed/python/66e4086889" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+ 
+Excercise 3: Here is a program that calculates a user's pay.
+
+<iframe src="https://trinket.io/embed/python/6984123aff" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+ 
+Excercise 5: Converts a user-provided Celsius temperature into Fahrenheit 
+
+<iframe src="https://trinket.io/embed/python/799ebd172a" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+ 
+Reflection: I'd say the biggest lesson I learned from these exercise is the importance of data types in Python. Most of the errors I ran encountered early on involved me trying to concatenate two different data types.
+These struggles weren't in vain however as they helped to reinforce the usefulness of the str(), float(), and int() functions. But despite this epiphany, I did feel like taking user input and then converting it into 
+the data type I needed seemed a little convoluted. Is there not a wway to get user input and then convert it into a certain data type all in one step instead of two? 
+ 
